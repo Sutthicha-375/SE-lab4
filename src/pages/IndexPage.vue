@@ -28,9 +28,9 @@ export default {
       firstValue:0,
       secondValue:0,
       answerVulue:0,
-      firstName:"Narongkiad",
-      lastName:"Namhuaithong",
-      id:"6404101312"
+      firstName:"Sutthicha",
+      lastName:"Sonbalee",
+      id:"6404101375"
     }
   },
   methods: {
